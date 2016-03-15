@@ -7,7 +7,7 @@ DEVELOP=$5
 ITUNESSTORE=$6
 
 PRODUCT_PREFIX="icq"
-FEED_URL="http://mra.mail.ru/icq_mac_update/icq_update.xml"
+FEED_URL="https://mra.mail.ru/icq_mac_update/icq_update.xml"
 
 
 ./mac/ICQ/scripts/setversions.sh "${APP_VERSION}" "${APP_BUILD_VERSION}" 
